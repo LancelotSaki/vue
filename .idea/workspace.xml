@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52e3328c-39fe-4c6a-824a-3a5759f62a29" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/src/App.vue" afterPath="$PROJECT_DIR$/src/App.vue" />
-    </list>
+    <list default="true" id="52e3328c-39fe-4c6a-824a-3a5759f62a29" name="默认的" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -407,12 +405,12 @@
       <workItem from="1518060716911" duration="629000" />
       <workItem from="1518158706109" duration="1000" />
       <workItem from="1518159331826" duration="9261000" />
-      <workItem from="1518311364225" duration="23344000" />
+      <workItem from="1518311364225" duration="23527000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140202000" />
+    <option name="totallyTimeSpent" value="140385000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
